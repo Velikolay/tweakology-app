@@ -27,7 +27,7 @@
     "yup": "^0.26.10"
   },
   "devDependencies": {
-    "electron": "^4.2.12",
+    "electron": "^13.6.6",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-flowtype": "^4.5.2",
